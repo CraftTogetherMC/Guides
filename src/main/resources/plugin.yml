@@ -1,0 +1,6 @@
+name: Guides
+version: ${project.version}
+main: de.gcmclan.team.guides.GuidesPlugin
+authors: [OdinOxin, GameClubMuenster]
+maintainer: [J0schlZ]
+api-version: 1.18
