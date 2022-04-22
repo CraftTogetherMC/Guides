@@ -1,4 +1,4 @@
-name: Guides
+name: GuidesPlugin
 version: ${project.version}
 main: de.gcmclan.team.guides.GuidesPlugin
 authors: [OdinOxin, GameClubMuenster]
